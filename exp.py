@@ -669,4 +669,4 @@ def SPIKE():
 
 
 if __name__ == '__main__':
-    SPIKE()
+    main_menu()
